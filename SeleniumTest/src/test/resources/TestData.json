@@ -1,0 +1,17 @@
+[
+  {
+    "email":"remi.jullian@accenture.com",
+    "password":"test@1234",
+    "result":"Valid User",
+  },
+  {
+	"email":"remi1@accenture.com",
+    "password":"test@1234",
+    "result":"Invalid User"
+  },
+  {
+  	"email":"remi@accenture.com"
+  	"password":"test@1234",
+    "result":"Valid User"
+  }
+]
